@@ -10,3 +10,10 @@ var animal = {
   name: 'dog',
   lifeExpectancy: 14,
 }
+
+var customer = {
+  name: 'Carlos',
+  age: 33,
+  budget: 4000,
+  itemsOfInterest: [ 'pie', 'luggage' , 'tube-top', 'dog treats' ],
+}
